@@ -1,3 +1,4 @@
+print("puga fernnadez jorge kaled")
 # Función para encontrar el mayor de tres números
 def mayor_de_tres(num1, num2, num3):
     # Compara los tres números y retorna el mayor
