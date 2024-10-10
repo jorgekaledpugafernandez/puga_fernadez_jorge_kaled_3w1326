@@ -1,3 +1,4 @@
+print("puga fernnadez jorge kaled")
 # Función para obtener la longitud de la última palabra en un string
 def longitud_ultima_palabra(texto):
     # Separa el texto en palabras usando espacios en blanco y elimina espacios al inicio y al final
